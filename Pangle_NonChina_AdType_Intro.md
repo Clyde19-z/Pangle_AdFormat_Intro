@@ -13,24 +13,24 @@ Thus, in this article, we're trying to indroduce how to create an Ad placement f
 
 
 ## China Mainland's Traffic
+
 Ad formats that supported for China Mainland's Traffic are:
-国内支持的广告类型：激励视频广告，全屏视频广告，信息流广告，Banner广告，全屏广告，插屏广告，Draw信息流广告，贴片广告
-- 
-- 
-- 
-- 
-- 
-- 
+- Native Ads
+- Banner Ads
+- Interstitial Video Ads
+- Rewarded Video Ads
+- Splash Ads
+- Vertical Draw Video Ads
+- Interstitial Static Image Ads
+- In-Stream Ads
+
 
 ## Non China China Mainland's Traffic
+- Native Ads
+- Banner Ads
+- Interstitial Video Ads
+- Rewarded Video Ads
 
-
-- 
-- 
-- 
-- 
-- 
-- 
 
 ## 
 - IOS 9.X and higher;
