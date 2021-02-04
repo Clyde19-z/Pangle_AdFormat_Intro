@@ -51,11 +51,7 @@ CN/JP/KR/TW/TH/VN/MY/SA/AE/TR/EG/GB/FR/DE/IT/ES/ID/RU
 
 **NOTE: You should use the Pangle SDK（The Chinese Mainland) for your China Mainland Traffic and the Pangle SDK (Outside the Chinese Mainland) for your Non China Mainland Traffic.**
 
-## 4. Error Code Check
 
-Please refer to the following URL:
-
-https://www.pangle.cn/union/media/union/download/detail?id=2&docId=60137b71bc3f04003eef4c1f&osType=ios
 
 
 
