@@ -70,7 +70,6 @@ pod 'Ads-Global', '~>3.4.1.1'
 ```
 
 
-- Note: If you wanna import old version of Pangle SDK that the version is lower than v3.4.0.0, as shown below:
 ```XML
 pod 'Bytedance-UnionAD', '~>3.3.6.2'
 ```
@@ -108,44 +107,20 @@ Add the parameter `-objc` to `Other Linker Flags` in build settings, and the SDK
 
 ##### Detailed Steps:
 
-<img src="https://github.com/JohnnyWangMiura/Pangle-iOS-SDK-Integration-Guideline/blob/main/permission.png" />
+<img src="" />
 
 
 
-
-#### Add Dependency Libraries
-
-- StoreKit.framework
-- MobileCoreServices.framework
-- WebKit.framework
-- MediaPlayer.framework
-- CoreMedia.framework
-- AVFoundation.framework
-- CoreTelephony.framework
-- SystemConfiguration.framework
-- AdSupport.framework
-- CoreMotion.framework
-- Accelerate.framework
-- libresolv.9.tbd
-- libc++.tbd
-- libz.tbd
-- libsqlite3.tbd
-- libbz2.tbd
-- libxml2.tbd
-- libiconv.tbd
-- Security.framework
 
 
 **Note: Add the `ImageIO.framework` if the above dependency library is still reporting errors.**
 
 ##### Detailed Steps:
 
-<img src="https://github.com/JohnnyWangMiura/Pangle-iOS-SDK-Integration-Guideline/blob/main/library.png"/>
-
 
 #### Add language configuration
 
-<img src="https://github.com/JohnnyWangMiura/Pangle-iOS-SDK-Integration-Guideline/blob/main/language.png"/>
+<img src=""/>
 
 
 
