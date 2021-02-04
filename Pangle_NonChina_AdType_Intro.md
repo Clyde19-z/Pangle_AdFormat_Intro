@@ -12,7 +12,7 @@ If you created a wrong placement, you cannot receive any ads from Pangle.
 Thus, in this article, we're trying to indroduce how to create an Ad placement for Non China Mainland Traffic on Pangle's platform.
 
 
-## China Mainland's Traffic
+## 1. China Mainland's Traffic
 
 Ad formats that supported for China Mainland's Traffic are:
 - Native Ads
@@ -25,7 +25,7 @@ Ad formats that supported for China Mainland's Traffic are:
 - In-Stream Ads
 
 
-## Non China Mainland's Traffic
+## 2. Non China Mainland's Traffic
 Ad formats that supported for Non China Mainland's Traffic are:
 
 - Native Ads
@@ -33,41 +33,37 @@ Ad formats that supported for Non China Mainland's Traffic are:
 - Interstitial Video Ads
 - Rewarded Video Ads
 
-### How to Create a Native Ads Placement
+### 2.1 How to Create a Native Ads Placement
 
-### How to Create a Banner Ads Placement
+### 2.2  How to Create a Banner Ads Placement
 
-### How to Create an Interstitial Video Ads Placement
-
-### How to Create a Rewarded Video Ads Placement
-
-## Pangle's supported Countries/Regions (2021 Feb)
-- CN
-- JP
-- KR
-- TW
-- TH
-- VN
-- MY
-- SA
-- AE
-- TR
-- EG
-- GB
-- FR
-- DE
-- IT
-- ES
-- ID
-- RU
-
-## Import Pangle SDK through CocoaPods (Recommened):
-The simplest way to import the SDK into an iOS project is to use CocoaPods. Open your project's Podfile and add this line to your app's target:
-
-- Note: Import Pangle SDK that the version is higher than v3.4.0.0
-```XML
+```Kotlin
 pod 'Ads-Global', '~>3.4.1.1' 
 ```
+
+
+```Objective-C
+pod 'Ads-Global', '~>3.4.1.1' 
+```
+
+### 2.3 How to Create an Interstitial Video Ads Placement
+
+### 2.4 How to Create a Rewarded Video Ads Placement
+
+## 3. Pangle's supported Countries/Regions (2021 Feb)
+
+Currently, Pangle is supporting the following countries or regions:
+JP/KR/TW/TH/VN/MY/SA/AE/TR/EG/GB/FR/DE/IT/ES/ID/RU
+
+
+
+## 4. Error Code Check
+
+Please refer to the following URL:
+
+https://www.pangle.cn/union/media/union/download/detail?id=2&docId=60137b71bc3f04003eef4c1f&osType=ios
+
+
 
 
 ```XML
@@ -84,7 +80,7 @@ Download and unzip the SDK framework from Pangle Platform directly, and import t
 - `BUAdSDK.bundle`
 - `BUVAAuxiliary.framework`
 
-<img src="https://github.com/JohnnyWangMiura/Pangle-iOS-SDK-Integration-Guideline/blob/main/destination.png" />
+<img src="" />
 
 
 
@@ -93,21 +89,8 @@ Download and unzip the SDK framework from Pangle Platform directly, and import t
 
 Please make sure that `Copy Bundle Resource` contains `BUAdSDK.bundle`.
 
-<img src="https://github.com/JohnnyWangMiura/Pangle-iOS-SDK-Integration-Guideline/blob/main/bundle.png" />
-
-
-
-
-
-### Xcode Compiler Option Settings
-
-#### Add Permissions
-
-Add the parameter `-objc` to `Other Linker Flags` in build settings, and the SDK supports `- all_ load`
-
-##### Detailed Steps:
-
 <img src="" />
+
 
 
 
