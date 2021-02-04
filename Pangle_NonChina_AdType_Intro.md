@@ -53,9 +53,9 @@ CN/JP/KR/TW/TH/VN/MY/SA/AE/TR/EG/GB/FR/DE/IT/ES/ID/RU
 
 If you have both China Mainland Traffic and Non China Mainland Traffic, please note that:
 
-**For Android App**, you should use the Pangle SDK（The Chinese Mainland) for your China Mainland Traffic and the Pangle SDK (Outside the Chinese Mainland) for your Non China Mainland Traffic.
+For Android App, you should use the Pangle SDK（The Chinese Mainland) for your China Mainland Traffic and the Pangle SDK (Outside the Chinese Mainland) for your Non China Mainland Traffic.
 
-**For iOS App**, you have two options:
+For iOS App, you have two options:
 1. Use the Pangle SDK（The Chinese Mainland) for your China Mainland Traffic and the Pangle SDK (Outside the Chinese Mainland) for your Non China Mainland Traffic.
 2. Integrate both the Pangle SDK（The Chinese Mainland) and the Pangle SDK (Outside the Chinese Mainland) into one project. You can find more in the 'Integration Doc' on Pangle's platform.
 
