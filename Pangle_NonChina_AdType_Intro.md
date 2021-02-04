@@ -2,7 +2,7 @@
 
 
 
-# How to create an Ad placement on Pangle' platform?
+# How to Create an Ad Placement on Pangle' Platform?
 
 Currently, Pangle is supporting different Ad Formats for China Mainland Traffic and Non China Mainland Traffic and a certian Ad format may have different rendering method. 
 For example, Splash Ads is only supported for China Mainland Traffic rather than Non China Mainland Traffic, but Rewarded Video Ads is supported for both of them. 
