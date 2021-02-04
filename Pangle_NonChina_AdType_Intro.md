@@ -25,18 +25,41 @@ Ad formats that supported for China Mainland's Traffic are:
 - In-Stream Ads
 
 
-## Non China China Mainland's Traffic
+## Non China Mainland's Traffic
+Ad formats that supported for Non China Mainland's Traffic are:
+
 - Native Ads
 - Banner Ads
 - Interstitial Video Ads
 - Rewarded Video Ads
 
+### Create a Native Ads Placement
 
-## 
-- IOS 9.X and higher;
-- Xcode 12 and higher;
-- Supported architecture: x86-64, armv7, arm64, i386
+### Create a Banner Ads Placement
 
+### Create an Interstitial Video Ads Placement
+
+### Create a Rewarded Video Ads Placement
+
+## Pangle's supported Countries/Regions (2021 Feb)
+- CN
+- JP
+- KR
+- TW
+- TH
+- VN
+- MY
+- SA
+- AE
+- TR
+- EG
+- GB
+- FR
+- DE
+- IT
+- ES
+- ID
+- RU
 
 ## Import Pangle SDK through CocoaPods (Recommened):
 The simplest way to import the SDK into an iOS project is to use CocoaPods. Open your project's Podfile and add this line to your app's target:
