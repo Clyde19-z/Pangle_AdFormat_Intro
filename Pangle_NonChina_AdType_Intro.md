@@ -49,7 +49,7 @@ Supported size and rendering method are:
 Currently (2021 February), Pangle is supporting the following countries or regions:
 CN/JP/KR/TW/TH/VN/MY/SA/AE/TR/EG/GB/FR/DE/IT/ES/ID/RU
 
-**NOTE: You should use the Pangle SDK（The Chinese Mainland) for your China Mainland Traffic and the Pangle SDK (Outside the Chinese Mainland)for your Non China Mainland Traffic.**
+**NOTE: You should use the Pangle SDK（The Chinese Mainland) for your China Mainland Traffic and the Pangle SDK (Outside the Chinese Mainland) for your Non China Mainland Traffic.**
 
 ## 4. Error Code Check
 
