@@ -38,7 +38,7 @@ Supported size and rendering method are:
 
 |                  | Native Ads | Banner Ads | Interstitial Video Ads| Rewarded Video Ads |
 |-------------------|--------------------|--------------------|---------------------|---------------------|
-| Supported Size  | 1280x720, 640x640, 1200x628 px, 640x640 px  |  320x50, 300x250 | Fullscreen |  Fullscreen |
+| Supported Size  | 1280x720 Video, 640x640 Video, 1200x628px Image, 640x640px Image |  320x50, 300x250 | Fullscreen |  Fullscreen |
 | Supported Rendering Method| Non Template   |  Template   | Non Template | Non Template |
 | Remarks          |    | 320x50 and 300x250 are also known as 640x100 and 600x500 | Interstitial Video Ads is also known as Fullscreen Video Ads |   |
 
@@ -47,9 +47,9 @@ Supported size and rendering method are:
 ## 3. Pangle's supported Countries/Regions 
 
 Currently (2021 February), Pangle is supporting the following countries or regions:
-JP/KR/TW/TH/VN/MY/SA/AE/TR/EG/GB/FR/DE/IT/ES/ID/RU
+CN/JP/KR/TW/TH/VN/MY/SA/AE/TR/EG/GB/FR/DE/IT/ES/ID/RU
 
-
+**NOTE: You shold use the Pangle SDK (Outside the Chinese Mainland) for your China Mainland Traffic and the Pangle SDK（The Chinese Mainland**
 
 ## 4. Error Code Check
 
