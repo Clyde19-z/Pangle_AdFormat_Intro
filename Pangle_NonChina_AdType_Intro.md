@@ -2,7 +2,7 @@
 
 
 
-# How to Create an Ad Placement on Pangle' Platform?
+# Ad Types Supported by Pangle
 
 Currently (2021 February), Pangle is supporting different Ad Formats for China Mainland Traffic and Non China Mainland Traffic and a certian Ad format may have different rendering method. 
 For example, Splash Ads is only supported for China Mainland Traffic rather than Non China Mainland Traffic, but Rewarded Video Ads is supported for both of them. 
@@ -12,7 +12,7 @@ If you created a wrong placement, you cannot receive any ads from Pangle.
 Thus, in this article, we're trying to indroduce how to create an Ad placement for Non China Mainland Traffic on Pangle's platform.
 
 
-## 1. China Mainland's Traffic
+## 1. For China Mainland's Traffic
 
 Ad formats that supported for China Mainland's Traffic are:
 - Native Ads
@@ -25,7 +25,7 @@ Ad formats that supported for China Mainland's Traffic are:
 - In-Stream Ads
 
 
-## 2. Non China Mainland's Traffic
+## 2. For Non China Mainland's Traffic
 Ad formats that supported for Non China Mainland's Traffic are:
 
 - Native Ads
