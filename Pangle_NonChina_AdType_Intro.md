@@ -33,13 +33,13 @@ Ad formats that supported for Non China Mainland's Traffic are:
 - Interstitial Video Ads
 - Rewarded Video Ads
 
-### Create a Native Ads Placement
+### How to Create a Native Ads Placement
 
-### Create a Banner Ads Placement
+### How to Create a Banner Ads Placement
 
-### Create an Interstitial Video Ads Placement
+### How to Create an Interstitial Video Ads Placement
 
-### Create a Rewarded Video Ads Placement
+### How to Create a Rewarded Video Ads Placement
 
 ## Pangle's supported Countries/Regions (2021 Feb)
 - CN
